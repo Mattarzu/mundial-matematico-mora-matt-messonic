@@ -22,3 +22,5 @@ Antes de usar con estudiantes, creá un formulario en https://formspree.io/ y ve
 Los nombres y los resultados no están alojados en este repositorio: se guardan localmente en el navegador del alumno y solo se envían mediante Formspree si existe endpoint configurado y autorización. En equipos compartidos, borrar la partida después de guardar el informe. La persistencia entre computadoras no está implementada.
 
 Las categorías de logro son una **rúbrica formativa construida para el juego**, no criterios de acreditación oficiales. Referencias: *Progresiones de Aprendizaje para Matemática* (Córdoba, 2025), 5.º grado, pp. 43–49; cuadernillo *Las misiones de Mora, Matt y Messonic*, pp. 1–49.
+
+MateAventura Córdoba (v18), la app de Google Apps Script, está en [`mateaventura-cordoba/`](mateaventura-cordoba/).
